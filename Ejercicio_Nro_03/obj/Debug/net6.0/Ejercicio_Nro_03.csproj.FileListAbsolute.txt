@@ -1,0 +1,15 @@
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\bin\Debug\net6.0\Ejercicio_Nro_03.exe
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\bin\Debug\net6.0\Ejercicio_Nro_03.deps.json
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\bin\Debug\net6.0\Ejercicio_Nro_03.runtimeconfig.json
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\bin\Debug\net6.0\Ejercicio_Nro_03.dll
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\bin\Debug\net6.0\Ejercicio_Nro_03.pdb
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\Ejercicio_Nro_03.csproj.AssemblyReference.cache
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\Ejercicio_Nro_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\Ejercicio_Nro_03.AssemblyInfoInputs.cache
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\Ejercicio_Nro_03.AssemblyInfo.cs
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\Ejercicio_Nro_03.csproj.CoreCompileInputs.cache
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\Ejercicio_Nro_03.dll
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\refint\Ejercicio_Nro_03.dll
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\Ejercicio_Nro_03.pdb
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\Ejercicio_Nro_03.genruntimeconfig.cache
+C:\Gonza\UTN\2 Cuatri\2023 2°C PROG2 - LAB 2\Ejercicios_Guia\Ejercicio_Nro_03\obj\Debug\net6.0\ref\Ejercicio_Nro_03.dll
