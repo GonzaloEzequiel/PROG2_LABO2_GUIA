@@ -38,6 +38,8 @@ namespace Ejercicio_Nro_02
             respuesta.AppendLine($"El cubo de {numeroIngresado, 0:#,###.00} es: {Math.Pow(numeroIngresado, 3), 14:#,###.00}");
 
             Console.WriteLine(respuesta.ToString());
+
+            Console.ReadKey();
         }
     }
 }

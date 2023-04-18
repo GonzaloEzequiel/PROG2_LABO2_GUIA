@@ -66,6 +66,8 @@ namespace Ejercicio_Nro_05
             {
                 Console.WriteLine($"No existe centro numérico entre 1 y {numero}");
             }
+
+            Console.ReadKey();
         }
     }
 }

@@ -55,6 +55,8 @@ namespace Ejercicio_Nro_10
                 Console.WriteLine();
             }
 
+            Console.ReadKey();
+            
         }
     }
 }

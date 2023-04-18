@@ -48,6 +48,8 @@ namespace Ejercicio_Nro_06
                 if (i % 4 == 0)
                     Console.Write($"{i} ");
             }
+
+            Console.ReadKey();
         }
     }
 }

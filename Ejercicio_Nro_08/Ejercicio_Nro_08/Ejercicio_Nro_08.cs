@@ -108,7 +108,7 @@ namespace Ejercicio_Nro_08
 
             } while (seguir);
 
-            Console.WriteLine("Adios Mundo!");
+            Console.ReadKey();
         }
     }
 }

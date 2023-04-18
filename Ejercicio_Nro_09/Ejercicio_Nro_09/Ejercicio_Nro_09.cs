@@ -48,6 +48,8 @@ namespace Ejercicio_Nro_09
                 }
                 Console.WriteLine();
             }
+
+            Console.ReadKey();
         }
     }
 }

@@ -34,6 +34,8 @@ namespace Ejercicio_Nro_04
                 if (i == sumaDeTodosLosEnterosPositivosDivisores)
                     Console.WriteLine($"{i} ");
             }
+
+            Console.ReadKey();
         }
     }
 }

@@ -55,6 +55,8 @@ namespace Ejercicio_Nro_01
             respuesta.AppendLine($"Promedio: 				{promedio, 0:#,###.00}");
 
             Console.WriteLine(respuesta.ToString());
+
+            Console.ReadKey();
         }
     }
 }
