@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_Nro_12
 {
-    internal class ValidarRespuesta
+    internal static class ValidarRespuesta
     {
         /// <summary>
         /// Valida si el caracter ingresado es o no es 'S'
