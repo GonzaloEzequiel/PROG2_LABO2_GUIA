@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Gonza\\UTN\\2 Cuatri\\2023 2°C PROG2 - LAB 2\\Ejercicios_Guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\Ejercicio_Nro_13.csproj": {}
+    "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\Ejercicio_Nro_13.csproj": {}
   },
   "projects": {
-    "C:\\Gonza\\UTN\\2 Cuatri\\2023 2°C PROG2 - LAB 2\\Ejercicios_Guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\Ejercicio_Nro_13.csproj": {
+    "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\Ejercicio_Nro_13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Gonza\\UTN\\2 Cuatri\\2023 2°C PROG2 - LAB 2\\Ejercicios_Guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\Ejercicio_Nro_13.csproj",
+        "projectUniqueName": "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\Ejercicio_Nro_13.csproj",
         "projectName": "Ejercicio_Nro_13",
-        "projectPath": "C:\\Gonza\\UTN\\2 Cuatri\\2023 2°C PROG2 - LAB 2\\Ejercicios_Guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\Ejercicio_Nro_13.csproj",
-        "packagesPath": "C:\\Users\\geppe\\.nuget\\packages\\",
-        "outputPath": "C:\\Gonza\\UTN\\2 Cuatri\\2023 2°C PROG2 - LAB 2\\Ejercicios_Guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\obj\\",
+        "projectPath": "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\Ejercicio_Nro_13.csproj",
+        "packagesPath": "C:\\Users\\Gonza\\.nuget\\packages\\",
+        "outputPath": "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_13\\Ejercicio_Nro_13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\geppe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
