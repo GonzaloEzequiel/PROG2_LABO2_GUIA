@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BibliotecaDeClases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BibliotecaDeClases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaDeClases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaDeClases/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaDeClases/BibliotecaDeClases.csproj",
+      "msbuildProject": "../BibliotecaDeClases/BibliotecaDeClases.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BibliotecaDeClases >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Gonza\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_48\\Ejercicio_Nro_48\\ConsolaDePruebas\\ConsolaDePruebas.csproj",
+      "projectName": "ConsolaDePruebas",
+      "projectPath": "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_48\\Ejercicio_Nro_48\\ConsolaDePruebas\\ConsolaDePruebas.csproj",
+      "packagesPath": "C:\\Users\\Gonza\\.nuget\\packages\\",
+      "outputPath": "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_48\\Ejercicio_Nro_48\\ConsolaDePruebas\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_48\\Ejercicio_Nro_48\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+              "projectPath": "D:\\Gonza\\UTN\\2 Cuatri\\PROG2 - LABO2\\Ejercicios_guia\\Ejercicio_Nro_48\\Ejercicio_Nro_48\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
